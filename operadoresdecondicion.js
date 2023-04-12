@@ -1,0 +1,14 @@
+console.log(4<4);
+console.log(23==33);
+console.log(33 >= -3);
+console.log("Joel" == "Joel");
+console.log("!''$:;14" == "123quevery");
+console.log("Joel" == "Joel" && "!''$:;14" == "!''$:;14");
+console.log("Joel" == "joel" || "!''$:;14" == "!''$:;14");
+console.log("joel" != "Joel" && "!''$:;14" != "123quevery");
+let edadDeUsuarioIngresado =20;
+console.log(edadDeUsuarioIngresado >= 18 && edadDeUsuarioIngresado < 100);
+console.log(edadDeUsuarioIngresado >= 18 || edadDeUsuarioIngresado < 100);
+console.log(edadDeUsuarioIngresado <= 18 || edadDeUsuarioIngresado < 100);
+console.log(edadDeUsuarioIngresado < 18 && edadDeUsuarioIngresado > 100);
+console.log(edadDeUsuarioIngresado <18 || edadDeUsuarioIngresado > 100);
